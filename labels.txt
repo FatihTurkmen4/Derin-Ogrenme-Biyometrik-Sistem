@@ -1,0 +1,3 @@
+0 Yetkili Kisi
+1 Yabancı
+2 Bos Oda
